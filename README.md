@@ -8,6 +8,7 @@
 
 ## 분석 데이터
 [DACON 잡케어 추천 알고리즘 경진대회](https://dacon.io/competitions/official/235863/data)
+
 ![image](https://github.com/user-attachments/assets/b2c25d95-e35b-4b91-9a4c-d7fafe54d403)
 
 ## 분석 방법
